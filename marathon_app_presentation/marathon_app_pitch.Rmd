@@ -13,12 +13,13 @@ The app I have created is designed to help with marathon pacing. As long as runn
 
 
 
-# App Preivew (fully functional) {.slide}
+# {.slide}
 
+**Fully functional app preview**
 
 ```{r, echo=FALSE, results='asis', message=FALSE, warning=FALSE}
 library(htmltools)
-HTML('<iframe src="https://lkloucek.shinyapps.io/marathon/" style="border:none;width:100%;height:300px;"></iframe>')
+HTML('<iframe src="https://lkloucek.shinyapps.io/marathon/" style="border:none;width:100%;height:700px;"></iframe>')
 ```
 
 
